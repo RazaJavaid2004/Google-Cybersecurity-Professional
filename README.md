@@ -7,20 +7,39 @@
 [![Focus](https://img.shields.io/badge/Focus-GRC%20%7C%20SecOps%20%7C%20Incident%20Response-34A853?style=for-the-badge)](#)
 [![Linux & SQL](https://img.shields.io/badge/Tools-Linux%20%7C%20SQL%20%7C%20Wireshark%20%7C%20SIEM-EA4335?style=for-the-badge)](#)
 
-*A curated collection of security audits, incident response journals, threat models, vulnerability assessments, and technical labs completed during the Google Cybersecurity Professional Certificate.*
+*A curated collection of security audits, incident response journals, threat models, vulnerability assessments, technical labs, and verified credentials completed during the Google Cybersecurity Professional Certificate.*
 
 </div>
 
 ---
 
 ## 📌 Overview
-This repository houses **15 hands-on deliverables**—including technical reports (`.docx`), visual presentations (`.pptx`), and asset spreadsheets (`.xlsx`)—developed during the **Google Cybersecurity Professional Certificate** program. Each artifact demonstrates applied skills across Governance, Risk, and Compliance (GRC), Incident Response, Threat Modeling, Network Traffic Analysis, Linux Administration, and SQL Log Investigation.
+This repository houses **15 hands-on deliverables**—including technical reports (`.docx`), visual presentations (`.pptx`), and asset spreadsheets (`.xlsx`)—alongside **10 verified course and specialization certificates** (`.png`) earned during the **Google Cybersecurity Professional Certificate** program. Each artifact demonstrates applied skills across Governance, Risk, and Compliance (GRC), Incident Response, Threat Modeling, Network Traffic Analysis, Linux Administration, and SQL Log Investigation.
+
+---
+
+## 🏆 Certifications & Credentials
+
+All official completion certificates are stored in the [`certificates/`](./certificates/) directory:
+
+| Credential | File Link | Description |
+| :--- | :---: | :--- |
+| **🎓 Full Specialization Certificate** | **[`specialization.png`](./certificates/specialization.png)** | Official **Google Cybersecurity Professional Certificate** credential. |
+| **Course 1 Certificate** | [`course 1.png`](./certificates/course%201.png) | Foundations of Cybersecurity |
+| **Course 2 Certificate** | [`course 2.png`](./certificates/course%202.png) | Play It Safe: Manage Security Risks |
+| **Course 3 Certificate** | [`course 3.png`](./certificates/course%203.png) | Connect and Protect: Networks and Network Security |
+| **Course 4 Certificate** | [`course 4.png`](./certificates/course%204.png) | Tools of the Trade: Linux and SQL |
+| **Course 5 Certificate** | [`course 5.png`](./certificates/course%205.png) | Assets, Threats, and Vulnerabilities |
+| **Course 6 Certificate** | [`course 6.png`](./certificates/course%206.png) | Sound the Alarm: Detection and Response |
+| **Course 7 Certificate** | [`course 7.png`](./certificates/course%207.png) | Automate Cybersecurity Tasks with Python |
+| **Course 8 Certificate** | [`course 8.png`](./certificates/course%208.png) | Put It to Work: Prepare for Cybersecurity Jobs |
+| **Course 9 Certificate** | [`course 9.png`](./certificates/course%209.png) | Accelerate Your Job Search with AI |
 
 ---
 
 ## 🗂️ Portfolio Deliverables Index
 
-All artifacts are located inside the [`Cybersecurity Learning/`](./Cybersecurity%20Learning/) directory and are categorized below by core security domain:
+All project artifacts are located inside the [`Cybersecurity Learning/`](./Cybersecurity%20Learning/) directory and are categorized below by core security domain:
 
 ### 🛡️ 1. Governance, Risk & Compliance (GRC) & Threat Modeling
 | Deliverable | Format | Key Highlights & Objectives |
@@ -64,6 +83,18 @@ All artifacts are located inside the [`Cybersecurity Learning/`](./Cybersecurity
 ```text
 Cybersecurity-Learning-Portfolio/
 │
+├── certificates/
+│   ├── course 1.png                          → Course 1 completion certificate
+│   ├── course 2.png                          → Course 2 completion certificate
+│   ├── course 3.png                          → Course 3 completion certificate
+│   ├── course 4.png                          → Course 4 completion certificate
+│   ├── course 5.png                          → Course 5 completion certificate
+│   ├── course 6.png                          → Course 6 completion certificate
+│   ├── course 7.png                          → Course 7 completion certificate
+│   ├── course 8.png                          → Course 8 completion certificate
+│   ├── course 9.png                          → Course 9 completion certificate
+│   └── specialization.png                    → Full Google Cybersecurity Certificate credential
+│
 ├── Cybersecurity Learning/
 │   ├── Access Controls.docx                  → Identity & Access Management (IAM) control analysis
 │   ├── Data Leak Review.docx                 → Data breach root-cause & remediation report
@@ -94,6 +125,7 @@ Cybersecurity-Learning-Portfolio/
    git clone https://github.com/RazaJavaid2004/Cybersecurity-Learning-Portfolio.git
    ```
 2. **Explore by Format:**
+   - Open **`.png`** files in the `certificates/` folder to view official course and specialization completion credentials.
    - Open **`.pptx`** files for visual presentations on malware analysis (`Virus Total Report.pptx`) and packet capture tools (`Wireshark & tcpdump similarity.pptx`).
    - Open **`.docx`** files for detailed written audits, incident response playbooks, threat models, and Linux/SQL technical labs.
    - Open **`.xlsx`** files to review structured asset inventory and risk tracking templates.
